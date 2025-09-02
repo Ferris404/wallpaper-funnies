@@ -1,4 +1,4 @@
-tags=fox
+tags=star_wars
 
 
 
@@ -583,7 +583,7 @@ tags=fox
 
 
 
-amount=99
+amount=1
 
 
 
