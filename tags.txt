@@ -1,4 +1,4 @@
-tags=star_wars
+tags=genshin_impact
 
 
 
