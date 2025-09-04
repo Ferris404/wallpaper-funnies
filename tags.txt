@@ -583,7 +583,7 @@ tags=minecraft
 
 
 
-amount=1
+amount=10
 
 
 
