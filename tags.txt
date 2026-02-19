@@ -1,4 +1,4 @@
-tags=blue_archive
+tags=zenless_zone_zero
 
 
 
@@ -584,6 +584,7 @@ tags=blue_archive
 
 
 amount=10
+
 
 
 
